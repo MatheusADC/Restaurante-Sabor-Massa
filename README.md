@@ -2,7 +2,7 @@
 Um site que apresenta a concepção de um restaurante de comidas típicas.
 
 # Projeto - Figma
-[Clique aqui](https://www.figma.com/design/ydkxc5YxePt7P0AHvH8v5h/Atividade-de-fluxos-de-teste-no-prot%C3%B3tipo?node-id=0-1&p=f&t=Xa31fXB1KGtrUrPk-0)
+<a href="https://www.figma.com/design/ydkxc5YxePt7P0AHvH8v5h/Atividade-de-fluxos-de-teste-no-prot%C3%B3tipo?node-id=0-1&p=f&t=Xa31fXB1KGtrUrPk-0" target="_blank">Clique aqui</a>
 
 # Página Inicial
 ![image](https://github.com/user-attachments/assets/12d5051b-6a2b-459c-9a89-1c1c8d980393)
